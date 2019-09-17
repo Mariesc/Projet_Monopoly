@@ -1,0 +1,1 @@
+java -jar monopolyR8_IHMTest.jar
